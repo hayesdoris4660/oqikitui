@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "黑鲸鱼 DeepSeek Harness，从「赛博乐高」变成 Agent Store",
+    "author": "嬐搠觸",
+    "time": "2026年08月25日04时12分23秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "李施嬅说朱一龙又一个影帝来了",
+  "description": "企业 AI Agent 的真正门槛，不是模型能力，而是工作底座",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.cvcbh.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "波斯湾的美军要跑路了？",
+    "description": "内容页的详细描述，可包含www.blog.cvcbh.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "蝤函簖"
+    },
+    "datePublished": "2026年08月25日04时12分23秒",
+    "dateModified": "2026年08月25日04时12分23秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "房主遇暴力强拆反击致一死被判无罪 律师：系全国首例",
+      "url": "www.blog.cvcbh.cn/Article/details/469493.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "1944年、纳粹德国陆军元帅京特·冯·克鲁格畏罪自杀",
+      "share_url": "www.blog.cvcbh.cn/Article/details/632922.sHtML"
+    },
+{
+      "platform": "李钧，辞去陕西省副省长职务",
+      "share_url": "www.blog.cvcbh.cn/Article/details/440817.sHtML"
+    },
+{
+      "platform": "真有这么大的NN MM吗？这要如何才能掌控？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/478678.sHtML"
+    },
+{
+      "platform": "前端切图仔被 AI 新闻淹死的第 N 天,我用 TRAE Work 定时任务救了自己",
+      "share_url": "www.blog.cvcbh.cn/Article/details/270500.sHtML"
+    },
+{
+      "platform": "敕令搜典(一款Everything插件）瞬间菜鸟成为元婴级大能",
+      "share_url": "www.blog.cvcbh.cn/Article/details/651757.sHtML"
+    },
+{
+      "platform": "王者牛魔玩法升级爆料",
+      "share_url": "www.blog.cvcbh.cn/Article/details/797383.sHtML"
+    },
+{
+      "platform": "5分钟，看完《牛来》全剧情",
+      "share_url": "www.blog.cvcbh.cn/Article/details/796130.sHtML"
+    },
+{
+      "platform": "赛马过时了，Wan 3.0还是越早和HappyHorse合并越好",
+      "share_url": "www.blog.cvcbh.cn/Article/details/106992.sHtML"
+    },
+{
+      "platform": "千万别用手拍，最近很多人家里有！深圳曾有一男子被迫摘除眼球，“第二天就失明”",
+      "share_url": "www.blog.cvcbh.cn/Article/details/814993.sHtML"
+    },
+    {
+      "platform": "Here we go！罗马诺&DO：阿森纳将签孔萨，基础转会费5000万镑",
+      "share_url": "www.blog.cvcbh.cn/Article/details/082702.sHtML"
+    },
+{
+      "platform": "韩国高温已致19人死亡，李在明要求按“国家灾难状态”应对",
+      "share_url": "www.blog.cvcbh.cn/Article/details/407662.sHtML"
+    },
+{
+      "platform": "DM 指定表的聚集索引：提升数据库查询性能的关键技术",
+      "share_url": "www.blog.cvcbh.cn/Article/details/578374.sHtML"
+    },
+{
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "www.blog.cvcbh.cn/Article/details/179657.sHtML"
+    },
+{
+      "platform": "小鹏G9L双工况场景极限 续航挑战！城区达成率：122.5%/高速达成率：85.3%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/961683.sHtML"
+    },
+{
+      "platform": "国防部发布正式通告：马德雷山号再不拖走，就要采取非常手段了！",
+      "share_url": "www.blog.cvcbh.cn/Article/details/385755.sHtML"
+    },
+{
+      "platform": "栗子前端技术周刊第 142 期 - DeepSeek Harness、pnpm 12 RC、crypto?js...",
+      "share_url": "www.blog.cvcbh.cn/Article/details/667570.sHtML"
+    },
+{
+      "platform": "A股全市场逾百股跌停",
+      "share_url": "www.blog.cvcbh.cn/Article/details/418488.sHtML"
+    },
+{
+      "platform": "京东 WRC 2026 发布机器人战略：到 2028 年投入百亿级资源，助力 100 个品牌销售额破 10 亿元",
+      "share_url": "www.blog.cvcbh.cn/Article/details/235781.sHtML"
+    },
+{
+      "platform": "教练啊，地上有一万你不捡啊",
+      "share_url": "www.blog.cvcbh.cn/Article/details/936628.sHtML"
+    },
+    {
+      "platform": "日本民众排队5小时买中国相机",
+      "share_url": "www.blog.cvcbh.cn/Article/details/775667.sHtML"
+    },
+{
+      "platform": "来葛仙村过几天神仙日子！！！【江西旅游新地标】葛仙村度假区三天两晚全功攻略",
+      "share_url": "www.blog.cvcbh.cn/Article/details/535641.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "www.blog.cvcbh.cn/Article/details/070723.sHtML"
+    },
+{
+      "platform": "全球市场大跳水原因",
+      "share_url": "www.blog.cvcbh.cn/Article/details/085954.sHtML"
+    },
+{
+      "platform": "“电视台开始播AI剧”引热议，为何AI越像人越诡异？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/259702.sHtML"
+    },
+{
+      "platform": "0819复盘：七夕至少有股票赔着",
+      "share_url": "www.blog.cvcbh.cn/Article/details/404448.sHtML"
+    },
+{
+      "platform": "【短视频】七夕快乐呀呀",
+      "share_url": "www.blog.cvcbh.cn/Article/details/300448.sHtML"
+    },
+{
+      "platform": "CBA l 浙江广厦多名球员离队，球队进入新发展周期",
+      "share_url": "www.blog.cvcbh.cn/Article/details/038691.sHtML"
+    },
+{
+      "platform": "OpenAI要输？Anthropic按下万亿IPO快进键，达里奥2%持股夺权",
+      "share_url": "www.blog.cvcbh.cn/Article/details/901739.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/671559.sHtML"
+    },
+    {
+      "platform": "韩国特检组追加起诉金建希涉官邸搬迁违规；李在明称任内完成战时指挥权移交",
+      "share_url": "www.blog.cvcbh.cn/Article/details/049567.sHtML"
+    },
+{
+      "platform": "为什么你现在不发朋友圈了？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/212501.sHtML"
+    },
+{
+      "platform": "中联部邀日本议员访华？外交部回应",
+      "share_url": "www.blog.cvcbh.cn/Article/details/435754.sHtML"
+    },
+{
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "www.blog.cvcbh.cn/Article/details/019787.sHtML"
+    },
+{
+      "platform": "读懂微信 AI 底层逻辑：普通人、商家掘金完整手册",
+      "share_url": "www.blog.cvcbh.cn/Article/details/416431.sHtML"
+    },
+{
+      "platform": "韩国外长谈特朗普突然施压的两大目的",
+      "share_url": "www.blog.cvcbh.cn/Article/details/745466.sHtML"
+    },
+{
+      "platform": "人形机器人运动会，比什么",
+      "share_url": "www.blog.cvcbh.cn/Article/details/624880.sHtML"
+    },
+{
+      "platform": "新政落地首周 北京楼市火热",
+      "share_url": "www.blog.cvcbh.cn/Article/details/282338.sHtML"
+    },
+{
+      "platform": "现在的视觉小说游戏，都这么卷了吗？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/590857.sHtML"
+    },
+{
+      "platform": "年亏17亿的“中国版SpaceX”，终于把火箭收回来了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/013196.sHtML"
+    },
+    {
+      "platform": "河南出台带薪休假新政：领导干部要带头休假，推动全员应休尽休、休满休足，对纸面休假、弄虚作假的机关事业单位约谈通报、限期整改",
+      "share_url": "www.blog.cvcbh.cn/Article/details/444949.sHtML"
+    },
+{
+      "platform": "6人点88元双人餐被拒 男子发避雷视频",
+      "share_url": "www.blog.cvcbh.cn/Article/details/167580.sHtML"
+    },
+{
+      "platform": "药代违规进入诊疗区域，四家药企产品被湘雅二医院暂停使用3个月",
+      "share_url": "www.blog.cvcbh.cn/Article/details/072528.sHtML"
+    },
+{
+      "platform": "这个39岁的日本阿姨，说话一套一套的！",
+      "share_url": "www.blog.cvcbh.cn/Article/details/328243.sHtML"
+    },
+{
+      "platform": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/388711.sHtML"
+    },
+{
+      "platform": "女排时隔11年冲击亚洲冠军",
+      "share_url": "www.blog.cvcbh.cn/Article/details/518722.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 实测：一夜 5 万星，Agent 界的 Android 来了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/552007.sHtML"
+    },
+{
+      "platform": "三亚小众玩法 | 春天刚来，我便开始想念海边的漫时光",
+      "share_url": "www.blog.cvcbh.cn/Article/details/534981.sHtML"
+    },
+{
+      "platform": "曼联即将签下巴莱巴",
+      "share_url": "www.blog.cvcbh.cn/Article/details/124390.sHtML"
+    },
+{
+      "platform": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "share_url": "www.blog.cvcbh.cn/Article/details/948276.sHtML"
+    },
+    {
+      "platform": "AI 芯片初创企业 Etched 估值飙升至 210 亿美元，首批机架出货",
+      "share_url": "www.blog.cvcbh.cn/Article/details/355403.sHtML"
+    },
+{
+      "platform": "患者就诊中昏迷医生被索赔",
+      "share_url": "www.blog.cvcbh.cn/Article/details/655446.sHtML"
+    },
+{
+      "platform": "万岁山景区旁现“李鬼停车场”",
+      "share_url": "www.blog.cvcbh.cn/Article/details/100294.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "www.blog.cvcbh.cn/Article/details/881734.sHtML"
+    },
+{
+      "platform": "老人闯高速身亡子女索赔13万",
+      "share_url": "www.blog.cvcbh.cn/Article/details/487724.sHtML"
+    },
+{
+      "platform": "海军新飞行学员坐军舰去上学",
+      "share_url": "www.blog.cvcbh.cn/Article/details/651443.sHtML"
+    },
+{
+      "platform": "岚图发布“虎踞”智能底盘，城市SUV能否讲好全地形故事",
+      "share_url": "www.blog.cvcbh.cn/Article/details/863870.sHtML"
+    },
+{
+      "platform": "这是青岛哪位大佬？这么嚣张",
+      "share_url": "www.blog.cvcbh.cn/Article/details/619268.sHtML"
+    },
+{
+      "platform": "《人民日报》刊文：“两个80%”的警示",
+      "share_url": "www.blog.cvcbh.cn/Article/details/002238.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness确实炸了，但我已经不care了——说说为什么",
+      "share_url": "www.blog.cvcbh.cn/Article/details/808832.sHtML"
+    },
+    {
+      "platform": "字节面试官皱眉了："你的 Agent 为啥用 Code RAG 而不用 grep？Claude Code 都实践出来 grep 效果好，难道你们另有其他考虑？"",
+      "share_url": "www.blog.cvcbh.cn/Article/details/433874.sHtML"
+    },
+{
+      "platform": "石家庄再通报“居民楼部分坍塌”：3人遇难",
+      "share_url": "www.blog.cvcbh.cn/Article/details/139916.sHtML"
+    },
+{
+      "platform": "市场监管总局严打电子计价秤芯片植入、远程操控等作弊行为，全流程管控生产流通",
+      "share_url": "www.blog.cvcbh.cn/Article/details/117495.sHtML"
+    },
+{
+      "platform": "古巨基54岁生日全家合照曝光，58岁妻子状态年轻，两个儿子像妈妈",
+      "share_url": "www.blog.cvcbh.cn/Article/details/427176.sHtML"
+    },
+{
+      "platform": "王者里可以打斗地主了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/653986.sHtML"
+    },
+{
+      "platform": "葛卫东朋友圈“喊话”坚定看多AI：我是相信没结束的",
+      "share_url": "www.blog.cvcbh.cn/Article/details/978917.sHtML"
+    },
+{
+      "platform": "5万以下的燃油车 正在被遗忘",
+      "share_url": "www.blog.cvcbh.cn/Article/details/809995.sHtML"
+    },
+{
+      "platform": "12306回应买票占座放零食这座位能让吗",
+      "share_url": "www.blog.cvcbh.cn/Article/details/455311.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/047941.sHtML"
+    },
+{
+      "platform": "Moderna美股盘前涨超80% 公司与默沙东宣布黑色素瘤皮肤癌疫苗在大型试验中达到目标影响",
+      "share_url": "www.blog.cvcbh.cn/Article/details/698979.sHtML"
+    },
+    {
+      "platform": "搭载行业首个七年长寿万级大电池，OPPO发布新一代耐用传奇A7 Pro Max",
+      "share_url": "www.blog.cvcbh.cn/Article/details/939619.sHtML"
+    },
+{
+      "platform": "邵永灵谈西方媒体酸中国机器狗的成功",
+      "share_url": "www.blog.cvcbh.cn/Article/details/869636.sHtML"
+    },
+{
+      "platform": "国家统计局：7月全国城镇不包含在校生16-24岁劳动力失业率为17.9%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/975084.sHtML"
+    },
+{
+      "platform": "财务管理系统 2026 专业版",
+      "share_url": "www.blog.cvcbh.cn/Article/details/019905.sHtML"
+    },
+{
+      "platform": "每体：加维拒绝了加盟曼联的可能，他决定留在巴萨",
+      "share_url": "www.blog.cvcbh.cn/Article/details/030131.sHtML"
+    },
+{
+      "platform": "1985年、北回归线标志塔在广州落成",
+      "share_url": "www.blog.cvcbh.cn/Article/details/631141.sHtML"
+    },
+{
+      "platform": "真爱降临时，请为我响起Take my hand 【夏雅】",
+      "share_url": "www.blog.cvcbh.cn/Article/details/016408.sHtML"
+    },
+{
+      "platform": "高速四大快车之一的拉猪车，为何跑那么快？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/628484.sHtML"
+    },
+{
+      "platform": "反抗强拆致死判无罪",
+      "share_url": "www.blog.cvcbh.cn/Article/details/072002.sHtML"
+    },
+{
+      "platform": "美军紧急“救援”林肯号",
+      "share_url": "www.blog.cvcbh.cn/Article/details/791081.sHtML"
+    },
+    {
+      "platform": "老妈身上的伤口就像“活火山口”，一汪血水混合着脓水",
+      "share_url": "www.blog.cvcbh.cn/Article/details/040577.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴回应大学毕业后仅 2 个月就从大疆离职：热爱机器人 + 产业化机会出现",
+      "share_url": "www.blog.cvcbh.cn/Article/details/547832.sHtML"
+    },
+{
+      "platform": "从《功夫女足》票房失利来看，国内观众最终还是选择抛弃了周星驰，至此所有的香港演员最后的那一点辉煌和遮羞布都没有了。",
+      "share_url": "www.blog.cvcbh.cn/Article/details/980508.sHtML"
+    },
+{
+      "platform": "王毅外长时隔5年再访韩 之后还将携手防长赴印尼参会",
+      "share_url": "www.blog.cvcbh.cn/Article/details/095651.sHtML"
+    },
+{
+      "platform": "守岸人第57次取消发送～?",
+      "share_url": "www.blog.cvcbh.cn/Article/details/702589.sHtML"
+    },
+{
+      "platform": "保时捷溜车差点撞上劳斯莱斯",
+      "share_url": "www.blog.cvcbh.cn/Article/details/169789.sHtML"
+    },
+{
+      "platform": "感觉周扬能处理罗子君家的事",
+      "share_url": "www.blog.cvcbh.cn/Article/details/264867.sHtML"
+    },
+{
+      "platform": "泽连斯基遭遇大麻烦",
+      "share_url": "www.blog.cvcbh.cn/Article/details/300037.sHtML"
+    },
+{
+      "platform": "工厂模式与 Nest.js 核心思想 —— 从蜜雪冰城到企业级架构",
+      "share_url": "www.blog.cvcbh.cn/Article/details/064654.sHtML"
+    },
+{
+      "platform": "快手 2026 财年上半年归母净利润 60.49 亿元，同比下降 32%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/432106.sHtML"
+    },
+    {
+      "platform": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "share_url": "www.blog.cvcbh.cn/Article/details/445038.sHtML"
+    },
+{
+      "platform": "22岁名校女生突然被"绑架"到700公里外 经历59天炼狱",
+      "share_url": "www.blog.cvcbh.cn/Article/details/081836.sHtML"
+    },
+{
+      "platform": "是时候跟上蔡徐坤的old school了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/427908.sHtML"
+    },
+{
+      "platform": "人民日报评杭州"酒局事件"：不仅道德败坏 更违法违规",
+      "share_url": "www.blog.cvcbh.cn/Article/details/197374.sHtML"
+    },
+{
+      "platform": "出狱前8天被改判死缓，最高检指导案例公布案件细节",
+      "share_url": "www.blog.cvcbh.cn/Article/details/887749.sHtML"
+    },
+{
+      "platform": "禾赛科技告赢美国国防部：一审判决被推翻，回应称列入相关清单缺乏正当依据",
+      "share_url": "www.blog.cvcbh.cn/Article/details/769648.sHtML"
+    },
+{
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "www.blog.cvcbh.cn/Article/details/867916.sHtML"
+    },
+{
+      "platform": "章子怡，投资230万套现3个亿",
+      "share_url": "www.blog.cvcbh.cn/Article/details/037960.sHtML"
+    },
+{
+      "platform": "上海上半年金融数据出炉：跨境人民币业务继续保持全国第一",
+      "share_url": "www.blog.cvcbh.cn/Article/details/008214.sHtML"
+    },
+{
+      "platform": "现货黄金日内涨幅达3%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/850376.sHtML"
+    },
+    {
+      "platform": "央视曝光：情侣网购上千个订单，收货地址为全国各地酒店前台",
+      "share_url": "www.blog.cvcbh.cn/Article/details/012189.sHtML"
+    },
+{
+      "platform": "绥化市征集王甜甜犯罪线索",
+      "share_url": "www.blog.cvcbh.cn/Article/details/402612.sHtML"
+    },
+{
+      "platform": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/233155.sHtML"
+    },
+{
+      "platform": ""最支持犹太人定居点"的美国大使 称以定居者恐怖分子",
+      "share_url": "www.blog.cvcbh.cn/Article/details/070758.sHtML"
+    },
+{
+      "platform": "哈佛太平间盗卖遗体案和解",
+      "share_url": "www.blog.cvcbh.cn/Article/details/623819.sHtML"
+    },
+{
+      "platform": "迁移uni-app x，我是如何让 AI 把我一步步搞崩溃的...",
+      "share_url": "www.blog.cvcbh.cn/Article/details/341368.sHtML"
+    },
+{
+      "platform": "中国“预制房”是怎样爆单的？（产经视野）",
+      "share_url": "www.blog.cvcbh.cn/Article/details/003896.sHtML"
+    },
+{
+      "platform": "石家庄一居民楼坍塌住户发声",
+      "share_url": "www.blog.cvcbh.cn/Article/details/810745.sHtML"
+    },
+{
+      "platform": "醉酒男持刀伤人，外卖小哥果断出手！",
+      "share_url": "www.blog.cvcbh.cn/Article/details/552620.sHtML"
+    },
+{
+      "platform": "甲状腺不好常吃两种水果",
+      "share_url": "www.blog.cvcbh.cn/Article/details/548907.sHtML"
+    },
+    {
+      "platform": "1981年韩先楚回乡探亲，与乡亲们交谈后，拿起电话：传我的命令",
+      "share_url": "www.blog.cvcbh.cn/Article/details/053348.sHtML"
+    },
+{
+      "platform": "关于对应用DNA科学公司等6家美国实体采取反制措施的决定",
+      "share_url": "www.blog.cvcbh.cn/Article/details/348600.sHtML"
+    },
+{
+      "platform": "httpspider工具箱,支持视频下载、滚动长截图、抓包分析、直播下载、图片下载",
+      "share_url": "www.blog.cvcbh.cn/Article/details/769975.sHtML"
+    },
+{
+      "platform": "七界梦谭天上谣三测PV",
+      "share_url": "www.blog.cvcbh.cn/Article/details/017923.sHtML"
+    },
+{
+      "platform": "DeepSeek据称重启第二轮融资 投前估值5000亿元",
+      "share_url": "www.blog.cvcbh.cn/Article/details/756306.sHtML"
+    },
+{
+      "platform": "1871年、美国飞机设计师奥维尔·莱特诞生",
+      "share_url": "www.blog.cvcbh.cn/Article/details/704298.sHtML"
+    },
+{
+      "platform": "“七年之痒”夫妻七夕复婚“打嘴仗”",
+      "share_url": "www.blog.cvcbh.cn/Article/details/355622.sHtML"
+    },
+{
+      "platform": "特朗普提前布局，他不希望今年的访华之行，重现去年的最大遗憾",
+      "share_url": "www.blog.cvcbh.cn/Article/details/810332.sHtML"
+    },
+{
+      "platform": "女生墨尔本街头翻唱遇袁娅维加入",
+      "share_url": "www.blog.cvcbh.cn/Article/details/557752.sHtML"
+    },
+{
+      "platform": "泽连斯基，遭遇大麻烦",
+      "share_url": "www.blog.cvcbh.cn/Article/details/187670.sHtML"
+    },
+    {
+      "platform": "中消协点名AI客服转人工不畅、网贷不规范催收等",
+      "share_url": "www.blog.cvcbh.cn/Article/details/554214.sHtML"
+    },
+{
+      "platform": "中铁二局新运公司被住建部警告，1年内不得再次申请这项行政许可",
+      "share_url": "www.blog.cvcbh.cn/Article/details/781546.sHtML"
+    },
+{
+      "platform": "就你这样还跟我表白",
+      "share_url": "www.blog.cvcbh.cn/Article/details/288149.sHtML"
+    },
+{
+      "platform": "AI 赋能 SRE：打造自愈系统，让运维从故障响应走向自动恢复",
+      "share_url": "www.blog.cvcbh.cn/Article/details/442486.sHtML"
+    },
+{
+      "platform": "泽连斯基启动军改能否扭转局势",
+      "share_url": "www.blog.cvcbh.cn/Article/details/898377.sHtML"
+    },
+{
+      "platform": "空枪 李嘉诚儿子绑架案",
+      "share_url": "www.blog.cvcbh.cn/Article/details/512272.sHtML"
+    },
+{
+      "platform": "【机器学习】损失函数全解_从MSE到交叉熵",
+      "share_url": "www.blog.cvcbh.cn/Article/details/862375.sHtML"
+    },
+{
+      "platform": "王力宏现身宇树答谢宴，坐1号桌",
+      "share_url": "www.blog.cvcbh.cn/Article/details/707612.sHtML"
+    },
+{
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "www.blog.cvcbh.cn/Article/details/460373.sHtML"
+    },
+{
+      "platform": "激发下沉市场活力 这几点值得期待",
+      "share_url": "www.blog.cvcbh.cn/Article/details/989581.sHtML"
+    },
+    {
+      "platform": "干娘带你看七夕线下脱单盛况",
+      "share_url": "www.blog.cvcbh.cn/Article/details/399698.sHtML"
+    },
+{
+      "platform": "不同职业的老叟戏顽童",
+      "share_url": "www.blog.cvcbh.cn/Article/details/669327.sHtML"
+    },
+{
+      "platform": "分享我舒缓压力的方法：写感恩日记/成功日记！希望你也可以因为一点小事就幸福呀！",
+      "share_url": "www.blog.cvcbh.cn/Article/details/533663.sHtML"
+    },
+{
+      "platform": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
+      "share_url": "www.blog.cvcbh.cn/Article/details/407939.sHtML"
+    },
+{
+      "platform": "2女孩买3张票 无座乘客想坐被拒",
+      "share_url": "www.blog.cvcbh.cn/Article/details/735803.sHtML"
+    },
+{
+      "platform": "一款抗癌疫苗引爆美股医药股",
+      "share_url": "www.blog.cvcbh.cn/Article/details/452390.sHtML"
+    },
+{
+      "platform": "世界人形机器人运动会选手测试",
+      "share_url": "www.blog.cvcbh.cn/Article/details/858724.sHtML"
+    },
+{
+      "platform": "我出轨了今天老婆正式通知了她家人",
+      "share_url": "www.blog.cvcbh.cn/Article/details/958267.sHtML"
+    },
+{
+      "platform": "2026年最值得购买的B级轿车，比亚迪秦MAX上市9.99万元起",
+      "share_url": "www.blog.cvcbh.cn/Article/details/640621.sHtML"
+    },
+{
+      "platform": "接生医生竟是前夫，我疼得大喊：赶紧把你儿子拽出来，他瞬间愣了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/529532.sHtML"
+    },
+    {
+      "platform": "弟弟举报哥哥冒名上大学案开庭，母亲称弟弟嫌农村人穷，究竟谁在说谎？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/794407.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台",
+      "share_url": "www.blog.cvcbh.cn/Article/details/245397.sHtML"
+    },
+{
+      "platform": "升学宴亲历者称事发后大家立即自救",
+      "share_url": "www.blog.cvcbh.cn/Article/details/645412.sHtML"
+    },
+{
+      "platform": "王者新英雄王维玩法爆料",
+      "share_url": "www.blog.cvcbh.cn/Article/details/830808.sHtML"
+    },
+{
+      "platform": "多地宣布：调整最低工资标准",
+      "share_url": "www.blog.cvcbh.cn/Article/details/052547.sHtML"
+    },
+{
+      "platform": "孟子义没有给cp让路的义务",
+      "share_url": "www.blog.cvcbh.cn/Article/details/848558.sHtML"
+    },
+{
+      "platform": "于东来称未来三年不参与帮扶企业，2030年后停止所有经营项目发展",
+      "share_url": "www.blog.cvcbh.cn/Article/details/069275.sHtML"
+    },
+{
+      "platform": "突发！OpenAI停止强化学习训练两周",
+      "share_url": "www.blog.cvcbh.cn/Article/details/143594.sHtML"
+    },
+{
+      "platform": "反制美国！中方公布5项措施",
+      "share_url": "www.blog.cvcbh.cn/Article/details/073417.sHtML"
+    },
+{
+      "platform": "星铁知更鸟晴歌综合测评",
+      "share_url": "www.blog.cvcbh.cn/Article/details/804267.sHtML"
+    },
+    {
+      "platform": "固态电池真的那么完美吗？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/184925.sHtML"
+    },
+{
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "www.blog.cvcbh.cn/Article/details/810389.sHtML"
+    },
+{
+      "platform": "Claude Code 是怎么恢复一段会话的？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/484218.sHtML"
+    },
+{
+      "platform": "2026德国教材：很多中国人没有汽车，出行靠自行车或步行，街头遍布自行车十分危险；中国人见面不握手，仅以鞠躬致意。",
+      "share_url": "www.blog.cvcbh.cn/Article/details/151912.sHtML"
+    },
+{
+      "platform": "院内花生被车碾碎 当事人要求道歉",
+      "share_url": "www.blog.cvcbh.cn/Article/details/151187.sHtML"
+    },
+{
+      "platform": "官方通报佛山一中学教师招聘违规事件",
+      "share_url": "www.blog.cvcbh.cn/Article/details/270292.sHtML"
+    },
+{
+      "platform": "美军航母神话正在被发霉的厕所戳破",
+      "share_url": "www.blog.cvcbh.cn/Article/details/957612.sHtML"
+    },
+{
+      "platform": "说句大实话，小米现阶段的困境，本质上就是饭圈文化的后遗症",
+      "share_url": "www.blog.cvcbh.cn/Article/details/478749.sHtML"
+    },
+{
+      "platform": "和你「私奔」的话，我只带一支海棠。【原创曲】",
+      "share_url": "www.blog.cvcbh.cn/Article/details/525939.sHtML"
+    },
+{
+      "platform": "AI 编程工程化：实战——从 0 到 1 搭建 AI 编程工作流",
+      "share_url": "www.blog.cvcbh.cn/Article/details/363120.sHtML"
+    },
+    {
+      "platform": "“不装”消费，当这届消费者开始卸下社交滤镜",
+      "share_url": "www.blog.cvcbh.cn/Article/details/335612.sHtML"
+    },
+{
+      "platform": "开启Benchmark的Harness时代：十五家学术机构联合发布HarnessEval",
+      "share_url": "www.blog.cvcbh.cn/Article/details/966411.sHtML"
+    },
+{
+      "platform": "在花大钱之前，先花一笔小钱验证你的决策",
+      "share_url": "www.blog.cvcbh.cn/Article/details/425672.sHtML"
+    },
+{
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "www.blog.cvcbh.cn/Article/details/379202.sHtML"
+    },
+{
+      "platform": "935亿热钱与冷水：宇树成为具身智能最后一只神股？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/914579.sHtML"
+    },
+{
+      "platform": "AI 编程进入监督时代：从补全代码到管理执行系统",
+      "share_url": "www.blog.cvcbh.cn/Article/details/565778.sHtML"
+    },
+{
+      "platform": "CMS_Setup(3.0.2.11)电脑端添加各个品牌监控",
+      "share_url": "www.blog.cvcbh.cn/Article/details/279829.sHtML"
+    },
+{
+      "platform": "足协评议费利佩进球被吹：裁判判罚没问题，与角球无关",
+      "share_url": "www.blog.cvcbh.cn/Article/details/445387.sHtML"
+    },
+{
+      "platform": "为何一封信硬控了所有00后",
+      "share_url": "www.blog.cvcbh.cn/Article/details/637805.sHtML"
+    },
+{
+      "platform": "全球市场大跳水 原因找到了",
+      "share_url": "www.blog.cvcbh.cn/Article/details/362726.sHtML"
+    },
+    {
+      "platform": "手写模拟器-文本/docx 一键变逼真手写图片，告别手抄(2026.08.12更新）",
+      "share_url": "www.blog.cvcbh.cn/Article/details/784964.sHtML"
+    },
+{
+      "platform": "MyBatis 源码深度拆解（十一）：MyBatis 事务管理 & 与 Spring 整合原理",
+      "share_url": "www.blog.cvcbh.cn/Article/details/273079.sHtML"
+    },
+{
+      "platform": "阿哲综艺收官5100运气封神",
+      "share_url": "www.blog.cvcbh.cn/Article/details/331853.sHtML"
+    },
+{
+      "platform": "单位该不该介入公职人员社会纠纷？| 风向标工作室",
+      "share_url": "www.blog.cvcbh.cn/Article/details/873177.sHtML"
+    },
+{
+      "platform": "【直播切片】小鸽子和小小白机器人一起打麻将",
+      "share_url": "www.blog.cvcbh.cn/Article/details/982364.sHtML"
+    },
+{
+      "platform": "豹启新境，2027款海豹06满配上市，售价9.99万元起",
+      "share_url": "www.blog.cvcbh.cn/Article/details/954921.sHtML"
+    },
+{
+      "platform": "正当防卫！昆山龙哥后又一正道的光",
+      "share_url": "www.blog.cvcbh.cn/Article/details/611885.sHtML"
+    },
+{
+      "platform": "未来5年优化医保便民这么干",
+      "share_url": "www.blog.cvcbh.cn/Article/details/303558.sHtML"
+    },
+{
+      "platform": "女子在养生馆"治病"2年花费超50万：积蓄没了还借网贷",
+      "share_url": "www.blog.cvcbh.cn/Article/details/449832.sHtML"
+    },
+{
+      "platform": "隔热层“飞”了 责任谁担",
+      "share_url": "www.blog.cvcbh.cn/Article/details/655554.sHtML"
+    },
+    {
+      "platform": "宇树科技上市庆功照流出，“投资教父”沈南鹏与王力宏畅聊",
+      "share_url": "www.blog.cvcbh.cn/Article/details/919681.sHtML"
+    },
+{
+      "platform": "爱上已婚胡军、为富豪生双胞胎？刘涛近况曝光 资源下跌 8年睡不着",
+      "share_url": "www.blog.cvcbh.cn/Article/details/686805.sHtML"
+    },
+{
+      "platform": "这骄傲又丑萌的小鸡",
+      "share_url": "www.blog.cvcbh.cn/Article/details/576026.sHtML"
+    },
+{
+      "platform": "【计算机网络 | 数据链路层3：MAC 地址是什么？它和 IP 地址有什么区别？】",
+      "share_url": "www.blog.cvcbh.cn/Article/details/589386.sHtML"
+    },
+{
+      "platform": "美股三大指数高开 SK海力士涨近5%",
+      "share_url": "www.blog.cvcbh.cn/Article/details/601159.sHtML"
+    },
+{
+      "platform": "小镇“傻老头”，与全村孩子一“约”就是21年｜人间事儿",
+      "share_url": "www.blog.cvcbh.cn/Article/details/717394.sHtML"
+    },
+{
+      "platform": "多省份调整最低工资标准，不少人工资却不升反降，网友：国有国法，厂有厂规",
+      "share_url": "www.blog.cvcbh.cn/Article/details/750915.sHtML"
+    },
+{
+      "platform": "中国机器人对答如流 斯洛伐克总统：里面是不是藏了个人？",
+      "share_url": "www.blog.cvcbh.cn/Article/details/383254.sHtML"
+    },
+{
+      "platform": "迷你世界致00后的一封信",
+      "share_url": "www.blog.cvcbh.cn/Article/details/942529.sHtML"
+    },
+{
+      "platform": "《牛来》火了？我用ThreeJs实现了一个简易版的，代码全送给你，文章最后附演示效果",
+      "share_url": "www.blog.cvcbh.cn/Article/details/508547.sHtML"
+    },
+    {
+      "platform": "ECharts 有对手了？TanStack Charts 重新定义图表库",
+      "share_url": "www.blog.cvcbh.cn/Article/details/040296.sHtML"
+    },
+{
+      "platform": "朱一龙：大家可以叫我强哥",
+      "share_url": "www.blog.cvcbh.cn/Article/details/123490.sHtML"
+    },
+{
+      "platform": "AI开始自己研发AI！硅谷首席科学家：大模型研发可能在2030年前后实现全面自动化，程序员将面对海量Agent产出",
+      "share_url": "www.blog.cvcbh.cn/Article/details/256842.sHtML"
+    },
+{
+      "platform": "七夕男朋友没有任何表示",
+      "share_url": "www.blog.cvcbh.cn/Article/details/926434.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "www.blog.cvcbh.cn/Article/details/204478.sHtML"
+    },
+{
+      "platform": "七夕怎么可能和谁过都一样",
+      "share_url": "www.blog.cvcbh.cn/Article/details/998888.sHtML"
+    },
+{
+      "platform": "15分钟一局的王者荣耀，成了数学博士生的避难所",
+      "share_url": "www.blog.cvcbh.cn/Article/details/308838.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "www.blog.cvcbh.cn/Article/details/360584.sHtML"
+    },
+{
+      "platform": "公安部门悬赏100万元寻找石狮",
+      "share_url": "www.blog.cvcbh.cn/Article/details/316397.sHtML"
+    },
+{
+      "platform": "暑期爆火的运动相机：买就吃灰，租才真香",
+      "share_url": "www.blog.cvcbh.cn/Article/details/966466.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/leekelli976/wjdjq/blob/main/20260824XP0m8.json</br>https://github.com/guzmanmichael396/awpzukt/blob/main/202608246r7OK.json</br>https://github.com/arnoldjennifer8/atbvssvg/blob/main/20260824tb6Xm.json</br>https://github.com/morriswilliam1/oduwsgmj/blob/main/20260824Vf1GN.json</br>https://github.com/leekelli976/wjdjq/blob/main/202608246Hx8g.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/riveraeric8739/ntlzc/blob/main/20260825eqo5I.json</br>https://github.com/huntwilliam07/orpdfxx/blob/main/20260824sUUGp.json</br>https://github.com/guzmanmichael396/awpzukt/blob/main/20260824s1XYW.json</br>https://github.com/leekelli976/wjdjq/blob/main/202608244lBJF.json</br>https://github.com/clarkemaria9/plfeglt/blob/main/202608257R6gw.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月25日04时12分23秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
